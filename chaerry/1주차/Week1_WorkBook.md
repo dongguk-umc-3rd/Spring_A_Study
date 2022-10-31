@@ -3,16 +3,13 @@
 ## 서버와 서비스
     - 주된 정보의 제공이나 작업을 수행하는 컴퓨터 시스템. **서버**는 클라이언트 시스템이 요청한 작업이나 정보의 수행 결과를 돌려준다.
     - **서비스**는 서버가 클라이언트에게 제공하는 것.
-- 클라이언트 - 서버 관계
+## 클라이언트 - 서버 관계
     - 클라이언트가 서버에게 request를 보낸다.
     - 서버는 클라이언트에게 response를 보낸다.
-- 서버의 동작 방식과 순서 (요청이 들어왔을 때 서비스가 어떻게 처리되는가?)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f082bf5b-d0b8-4fbc-868e-2e7d2105ed3c/Untitled.png)
-    
+## 서버의 동작 방식과 순서 (요청이 들어왔을 때 서비스가 어떻게 처리되는가?)
+    ![Untitled](https://user-images.githubusercontent.com/74655780/198918957-1ebb268b-b6fa-4f3a-b336-b662242ac595.png)
     [[Web] Web Server와 WAS의 차이와 웹 서비스 구조 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/10/27/webserver-vs-was.html)
-    
-- 서버의 구조
+## 서버의 구조
     - Server Program
         - 웹서버
             - Nginx
